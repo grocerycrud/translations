@@ -15,7 +15,7 @@ for filename in sorted(os.listdir('importer')):
                 newKey = key.strip().replace("'", "").replace('"', '')
 
                 # remove the first character from the value
-                newValue = value.strip()[1:].replace("',", "").replace('",', '')
+                newValue = value.strip()[1:].replace("',", "").replace('",', '').replace("\\'", "'")
 
                 data[newKey] = newValue
 

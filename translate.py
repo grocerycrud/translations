@@ -18,7 +18,7 @@ def jsonToPhp(jsonData, language):
     phpFile.write('return [\n')
     # sort by key jsonData
     for key in sorted(jsonData):
-        phpFile.write('    \'' + key + '\' => \'' + jsonData[key] + '\',\n')
+        phpFile.write('    \'' + key + '\' => \'' + jsonData[key].replace("'", "\\'") + '\',\n')
     phpFile.write('];\n')
     phpFile.close()
 
