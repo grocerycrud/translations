@@ -8,6 +8,10 @@ englishFile = open('json/English.json')
 englishData = json.load(englishFile)
 englishFile.close()
 
+# create a folder with name php if it doesn't exist
+if not os.path.exists('php'):
+    os.makedirs('php')
+
 def jsonToPhp(jsonData, language):
     phpFile = open('php/' + language + '.php', 'w')
     phpFile.write('<?php\n\n')
