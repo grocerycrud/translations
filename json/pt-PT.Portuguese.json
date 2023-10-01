@@ -15,6 +15,8 @@
     "columns_fit": "Ocultar colunas para ajustar",
     "confirm_delete": "Tem certeza que deseja excluir este registro?",
     "confirm_delete_multiple": "Tem certeza que deseja excluir estes {items_amount} itens?",
+    "drag_n_drop_file_multiple": "Arraste e solte os arquivos aqui ou clique para selecionar os arquivos",
+    "drag_n_drop_file_one": "Arraste e solte o arquivo aqui ou clique para selecionar um arquivo",
     "edit": "Alterar",
     "edit_item": "Alterar {subject}",
     "enter_x_or_more_characters": "Digite {remaining_chars} ou mais caracteres",
@@ -62,8 +64,11 @@
     "print": "Imprimir",
     "quick_search": "Busca Rápida",
     "refresh": "Atualizar",
+    "remove_file": "Remover",
     "reset_column_width": "Redefinir todas as larguras das coluna",
     "reset_ordering": "Redefinir ordem",
+    "restore_deleted_file": "Restaurar arquivo excluído",
+    "restore_deleted_files": "Restaurar arquivos excluídos",
     "select_all": "Selecionar Tudo",
     "select_an_option": "Selecione uma opção",
     "select_some_options": "Selecione mais de uma opção",
@@ -78,6 +83,7 @@
     "time_second_text": "Segundo",
     "time_text": "Tempo",
     "upload_attach_file": "Arraste arquivos para anexar, ou {browse_file}",
+    "upload_error_only_one_file": "Apenas um arquivo é permitido por upload. Por favor, selecione um único arquivo.",
     "view": "Visualizar",
     "view_item": "Visualizar {subject}"
 }
