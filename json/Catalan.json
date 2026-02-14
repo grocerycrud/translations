@@ -13,6 +13,7 @@
     "columns_fit": "Amagar columnes per ajustar",
     "confirm_delete": "Segur que vols esborrar aquest registre?",
     "confirm_delete_multiple": "Estàs segur que vols esborrar aquests {items_amount} elements?",
+    "delete_success_message": "Les dades seleccionades s'han esborrat correctament.",
     "edit": "Editar",
     "edit_item": "Editar {subject}",
     "enter_x_or_more_characters": "Si us plau, introdueix {remaining_chars} o més caràcters",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Eliminar filtres",
     "filtering_starts_with": "comença amb",
     "filtering_text": "Filtrat",
+    "insert_success_message": "Les teves dades s'han desat correctament.",
     "loading": "Carregant...",
     "modal_save": "Guardar",
     "more": "Més",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minut",
     "time_second_text": "Segon",
     "time_text": "Hora",
+    "update_success_message": "Les teves dades s'han actualitzat correctament.",
     "upload_attach_file": "Deixa caure arxius per adjuntar, o {browse_file}",
     "view": "Veure",
     "view_item": "Veure {subject}"

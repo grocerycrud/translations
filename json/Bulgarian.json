@@ -13,6 +13,7 @@
     "columns_fit": "Скрий колоните за побиране",
     "confirm_delete": "Сигурни ли сте че искате да изтриете този запис?",
     "confirm_delete_multiple": "Сигурни ли сте, че искате да изтриете тези {items_amount} елемента?",
+    "delete_success_message": "Избраните данни бяха успешно изтрити.",
     "edit": "Промени",
     "edit_item": "Промени {subject}",
     "enter_x_or_more_characters": "Моля, въведете {remaining_chars} или повече символи",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Премахни филтри",
     "filtering_starts_with": "започва с",
     "filtering_text": "Филтриране",
+    "insert_success_message": "Вашите данни бяха успешно запазени.",
     "loading": "Зареждане...",
     "modal_save": "Запази",
     "more": "Повече",
@@ -63,6 +65,7 @@
     "time_minute_text": "Минута",
     "time_second_text": "Секунда",
     "time_text": "Време",
+    "update_success_message": "Вашите данни бяха успешно обновени.",
     "upload_attach_file": "Пуснете файлове за прикачване или {browse_file}",
     "view": "Преглед",
     "view_item": "Преглед {subject}"

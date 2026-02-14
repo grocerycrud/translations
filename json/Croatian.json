@@ -13,6 +13,7 @@
     "columns_fit": "Sakrij stupce za prilagodbu",
     "confirm_delete": "Jeste li sigurni da želite izbrisati ovaj zapis?",
     "confirm_delete_multiple": "Jeste li sigurni da želite izbrisati ovih {items_amount} stavki?",
+    "delete_success_message": "Odabrani podaci su uspješno izbrisani.",
     "edit": "Uredi",
     "edit_item": "Uredi {subject}",
     "enter_x_or_more_characters": "Molimo unesite {remaining_chars} ili više znakova",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Ukloni filtere",
     "filtering_starts_with": "počinje s",
     "filtering_text": "Filtriranje",
+    "insert_success_message": "Vaši podaci su uspješno spremljeni.",
     "loading": "Učitavanje...",
     "modal_save": "Spremi",
     "more": "Više",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minuta",
     "time_second_text": "Sekunda",
     "time_text": "Vrijeme",
+    "update_success_message": "Vaši podaci su uspješno ažurirani.",
     "upload_attach_file": "Ispustite datoteke za prilaganje ili {browse_file}",
     "view": "Pregled",
     "view_item": "Pregled {subject}"

@@ -12,6 +12,7 @@
     "columns": "Kolomme",
     "confirm_delete": "Is jy seker jy wil hierdie rekord uitvee?",
     "confirm_delete_multiple": "Is jy seker jy wil hierdie {items_amount} items uitvee?",
+    "delete_success_message": "Die geselekteerde data is suksesvol verwyder.",
     "edit": "Dateer op",
     "edit_item": "Dateer op {subject}",
     "enter_x_or_more_characters": "Voer asseblief {remaining_chars} of meer karakters in",
@@ -41,6 +42,7 @@
     "filtering_remove_filters": "Verwyder filters",
     "filtering_starts_with": "begin met",
     "filtering_text": "Filtrering",
+    "insert_success_message": "Jou data is suksesvol gestoor.",
     "loading": "Besig om te laai...",
     "modal_save": "Stoor",
     "more": "Meer",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minuut",
     "time_second_text": "Sekonde",
     "time_text": "Tyd",
+    "update_success_message": "Jou data is suksesvol opgedateer.",
     "upload_attach_file": "Sleep lêers om aan te heg, of {browse_file}",
     "view": "Besigtig",
     "view_item": "Besigtig {subject}"

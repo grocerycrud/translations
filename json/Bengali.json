@@ -13,6 +13,7 @@
     "columns_fit": "ফিট করতে কলাম লুকান",
     "confirm_delete": "আপনি কি নিশ্চিত যে আপনি এই রেকর্ড মুছে দিতে চান?",
     "confirm_delete_multiple": "আপনি কি নিশ্চিত যে আপনি এই {items_amount} আইটেম মুছে দিতে চান?",
+    "delete_success_message": "নির্বাচিত ডেটা সফলভাবে মুছে ফেলা হয়েছে।",
     "edit": "পুনরায় ঠিক করুন",
     "edit_item": "পুনরায় ঠিক করুন {subject}",
     "enter_x_or_more_characters": "অনুগ্রহ করে {remaining_chars} বা আরও অক্ষর লিখুন",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "ফিল্টার সরান",
     "filtering_starts_with": "শুরু হয়",
     "filtering_text": "ফিল্টারিং",
+    "insert_success_message": "আপনার ডেটা সফলভাবে সংরক্ষিত হয়েছে।",
     "loading": "অপেক্ষা করুন...",
     "modal_save": "সংরক্ষণ",
     "more": "আরও",
@@ -63,6 +65,7 @@
     "time_minute_text": "মিনিট",
     "time_second_text": "সেকেন্ড",
     "time_text": "সময়",
+    "update_success_message": "আপনার ডেটা সফলভাবে আপডেট করা হয়েছে।",
     "upload_attach_file": "সংযুক্ত করতে ফাইল ড্রপ করুন, অথবা {browse_file}",
     "view": "দেখুন",
     "view_item": "দেখুন {subject}"

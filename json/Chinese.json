@@ -13,6 +13,7 @@
     "columns_fit": "隐藏列以适应",
     "confirm_delete": "你确定要删除这些记录?",
     "confirm_delete_multiple": "您确定要删除这 {items_amount} 个项目吗？",
+    "delete_success_message": "所选数据已成功删除。",
     "edit": "编辑",
     "edit_item": "编辑 {subject}",
     "enter_x_or_more_characters": "请输入 {remaining_chars} 个或更多字符",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "删除筛选器",
     "filtering_starts_with": "开头为",
     "filtering_text": "筛选",
+    "insert_success_message": "您的数据已成功保存。",
     "loading": "载入...",
     "modal_save": "保存",
     "more": "更多",
@@ -63,6 +65,7 @@
     "time_minute_text": "分钟",
     "time_second_text": "秒",
     "time_text": "时间",
+    "update_success_message": "您的数据已成功更新。",
     "upload_attach_file": "拖放文件以附加，或 {browse_file}",
     "view": "查看",
     "view_item": "查看 {subject}"

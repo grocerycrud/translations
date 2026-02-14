@@ -13,6 +13,7 @@
     "columns_fit": "Adapter en largeur",
     "confirm_delete": "Êtes-vous sûr de vouloir supprimer cet enregistrement ?",
     "confirm_delete_multiple": "Êtes-vous sûr de vouloir supprimer ces {items_amount} enregistrements?",
+    "delete_success_message": "Les données sélectionnées ont été supprimées avec succès.",
     "edit": "Éditer",
     "edit_item": "Éditer {subject}",
     "enter_x_or_more_characters": "Entrez {remaining_chars} caractère ou plus",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Supprimer filtre",
     "filtering_starts_with": "commence par",
     "filtering_text": "Filtrer",
+    "insert_success_message": "Vos données ont été enregistrées avec succès.",
     "loading": "Chargement...",
     "modal_save": "Enregistrer",
     "more": "Plus",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minute",
     "time_second_text": "Seconde",
     "time_text": "Heure",
+    "update_success_message": "Vos données ont été mises à jour avec succès.",
     "upload_attach_file": "Déposer les fichier ici, ou {browse_file}",
     "view": "Voir",
     "view_item": "Voir {subject}"

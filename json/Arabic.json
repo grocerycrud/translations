@@ -13,6 +13,7 @@
     "columns_fit": "إخفاء الأعمدة لتناسب الشاشة",
     "confirm_delete": " هل انت متأكد انك تريد حذف بيانات السطر ؟",
     "confirm_delete_multiple": "هل أنت متأكد أنك تريد حذف هذه العناصر {items_amount}؟",
+    "delete_success_message": "تم حذف البيانات المحددة بنجاح.",
     "edit": "تعديل",
     "edit_item": "تعديل {subject}",
     "enter_x_or_more_characters": "الرجاء إدخال {remaining_chars} حرف أو أكثر",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "إزالة الفلاتر",
     "filtering_starts_with": "يبدأ بـ",
     "filtering_text": "تصفية",
+    "insert_success_message": "تم حفظ بياناتك بنجاح.",
     "loading": "... يتم التحميل",
     "modal_save": "حفظ",
     "more": "المزيد",
@@ -63,6 +65,7 @@
     "time_minute_text": "دقيقة",
     "time_second_text": "ثانية",
     "time_text": "الوقت",
+    "update_success_message": "تم تحديث بياناتك بنجاح.",
     "upload_attach_file": "قم بإسقاط الملفات للإرفاق، أو {browse_file}",
     "view": "مشاهدة",
     "view_item": "مشاهدة {subject}"

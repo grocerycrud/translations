@@ -13,6 +13,7 @@
     "columns_fit": "Kolommen verbergen om te passen",
     "confirm_delete": "Record verwijderen?",
     "confirm_delete_multiple": "Weet u zeker dat u deze {items_amount} items wilt verwijderen?",
+    "delete_success_message": "De geselecteerde gegevens zijn succesvol verwijderd.",
     "edit": "Bewerk",
     "edit_item": "Bewerk {subject}",
     "enter_x_or_more_characters": "Voer alstublieft {remaining_chars} of meer tekens in",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Filters verwijderen",
     "filtering_starts_with": "begint met",
     "filtering_text": "Filteren",
+    "insert_success_message": "Uw gegevens zijn succesvol opgeslagen.",
     "loading": "Laden...",
     "modal_save": "Opslaan",
     "more": "Meer",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minuut",
     "time_second_text": "Seconde",
     "time_text": "Tijd",
+    "update_success_message": "Uw gegevens zijn succesvol bijgewerkt.",
     "upload_attach_file": "Sleep bestanden om bij te voegen, of {browse_file}",
     "view": "Bekijk",
     "view_item": "Bekijk {subject}"

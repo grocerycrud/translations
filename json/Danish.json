@@ -13,6 +13,7 @@
     "columns_fit": "Skjul kolonner for at passe",
     "confirm_delete": "Er du sikker på at du vil slette dette?",
     "confirm_delete_multiple": "Er du sikker på, at du vil slette disse {items_amount} elementer?",
+    "delete_success_message": "De valgte data er blevet slettet.",
     "edit": "Redigér",
     "edit_item": "Redigér {subject}",
     "enter_x_or_more_characters": "Indtast venligst {remaining_chars} eller flere tegn",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Fjern filtre",
     "filtering_starts_with": "starter med",
     "filtering_text": "Filtrering",
+    "insert_success_message": "Dine data er blevet gemt.",
     "loading": "Indlæser...",
     "modal_save": "Gem",
     "more": "Mere",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minut",
     "time_second_text": "Sekund",
     "time_text": "Tid",
+    "update_success_message": "Dine data er blevet opdateret.",
     "upload_attach_file": "Slip filer for at vedhæfte, eller {browse_file}",
     "view": "Vis",
     "view_item": "Vis {subject}"
