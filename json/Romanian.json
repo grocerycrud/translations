@@ -13,6 +13,7 @@
     "columns_fit": "Ascundere coloane",
     "confirm_delete": "Sunteți sigur că doriți să ștergeți acestă înregistrare?",
     "confirm_delete_multiple": "Sunteți sigur că doriți să ștergeți aceste {items_amount} înregistrări?",
+    "delete_success_message": "Datele selectate au fost șterse cu succes.",
     "edit": "Editare",
     "edit_item": "Editare {subject}",
     "enter_x_or_more_characters": "Introduceți {remaining_chars} sau mai multe caractere.",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Eliminare filtre",
     "filtering_starts_with": "începe cu",
     "filtering_text": "Filtrare",
+    "insert_success_message": "Datele dumneavoastră au fost salvate cu succes.",
     "loading": "În așteptare...",
     "modal_save": "Salvare",
     "more": "Mai mult",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minute",
     "time_second_text": "Secunde",
     "time_text": "Ora",
+    "update_success_message": "Datele dumneavoastră au fost actualizate cu succes.",
     "upload_attach_file": "Plasați fișiere pentru a atașa sau {browse_file}",
     "view": "Vizualizare",
     "view_item": "Vizualizare {subject}"

@@ -13,6 +13,7 @@
     "columns_fit": "Oszlopok elrejtése illesztéshez",
     "confirm_delete": "Biztosan törölni szeretné ezt a bejegyzést?",
     "confirm_delete_multiple": "Biztosan törölni szeretné ezeket a(z) {items_amount} elemet?",
+    "delete_success_message": "A kiválasztott adatok sikeresen törölve lettek.",
     "edit": "Szerkesztés",
     "edit_item": "Szerkesztés {subject}",
     "enter_x_or_more_characters": "Kérem, adjon meg {remaining_chars} vagy több karaktert",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Szűrők eltávolítása",
     "filtering_starts_with": "kezdődik",
     "filtering_text": "Szűrés",
+    "insert_success_message": "Az adatai sikeresen mentésre kerültek.",
     "loading": "Betöltés...",
     "modal_save": "Mentés",
     "more": "Több",
@@ -63,6 +65,7 @@
     "time_minute_text": "Perc",
     "time_second_text": "Másodperc",
     "time_text": "Idő",
+    "update_success_message": "Az adatai sikeresen frissítve lettek.",
     "upload_attach_file": "Húzza ide a fájlokat a csatoláshoz, vagy {browse_file}",
     "view": "Megtekintés",
     "view_item": "Megtekintés {subject}"

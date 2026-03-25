@@ -13,6 +13,7 @@
     "columns_fit": "Ẩn cột để vừa vặn",
     "confirm_delete": "Bạn có chắc rằng muốn xóa bản ghi này?",
     "confirm_delete_multiple": "Bạn có chắc chắn muốn xóa {items_amount} mục này không?",
+    "delete_success_message": "Dữ liệu đã chọn đã được xóa thành công.",
     "edit": "Thay đổi",
     "edit_item": "Thay đổi {subject}",
     "enter_x_or_more_characters": "Vui lòng nhập {remaining_chars} ký tự trở lên",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Xóa bộ lọc",
     "filtering_starts_with": "bắt đầu bằng",
     "filtering_text": "Lọc",
+    "insert_success_message": "Dữ liệu của bạn đã được lưu thành công.",
     "loading": "Đang tải...",
     "modal_save": "Thêm",
     "more": "Thêm",
@@ -63,6 +65,7 @@
     "time_minute_text": "Phút",
     "time_second_text": "Giây",
     "time_text": "Thời gian",
+    "update_success_message": "Dữ liệu của bạn đã được cập nhật thành công.",
     "upload_attach_file": "Thả tệp để đính kèm hoặc {browse_file}",
     "view": "Chi tiết",
     "view_item": "Chi tiết {subject}"

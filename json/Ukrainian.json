@@ -13,6 +13,7 @@
     "columns_fit": "Приховати стовпці для підгонки",
     "confirm_delete": "Ви впевнені, що бажаєте видалити цей запис?",
     "confirm_delete_multiple": "Ви впевнені, що хочете видалити ці {items_amount} елементи?",
+    "delete_success_message": "Вибрані дані успішно видалено.",
     "edit": "Редагувати",
     "edit_item": "Редагувати {subject}",
     "enter_x_or_more_characters": "Будь ласка, введіть {remaining_chars} або більше символів",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Видалити фільтри",
     "filtering_starts_with": "починається з",
     "filtering_text": "Фільтрування",
+    "insert_success_message": "Ваші дані успішно збережено.",
     "loading": "Завантаження...",
     "modal_save": "Зберегти",
     "more": "Більше",
@@ -63,6 +65,7 @@
     "time_minute_text": "Хвилина",
     "time_second_text": "Секунда",
     "time_text": "Час",
+    "update_success_message": "Ваші дані успішно оновлено.",
     "upload_attach_file": "Перетягніть файли для прикріплення або {browse_file}",
     "view": "Переглянути",
     "view_item": "Переглянути {subject}"

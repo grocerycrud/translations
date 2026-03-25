@@ -87,6 +87,8 @@
   "time_text" : "Time",
   "update_success_message": "Your data has been successfully updated.",
   "upload_error_only_one_file": "Only one file is allowed for upload. Please select a single file.",
+  "validation_unique": "must contain a unique value.",
+  "validation_required_upload": "must contain a file.",
   "view" : "View",
   "view_item" : "View {subject}"
 }

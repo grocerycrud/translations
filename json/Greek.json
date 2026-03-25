@@ -69,6 +69,8 @@
     "time_text": "Ώρα",
     "update_success_message": "Τα δεδομένα σας ενημερώθηκαν με επιτυχία.",
     "upload_attach_file": "{browse_file} ή μεταφέρετε το αρχείο σας εδώ για επισύναψη",
+    "validation_unique": "πρέπει να περιέχει μοναδική τιμή.",
+    "validation_required_upload": "πρέπει να περιέχει ένα αρχείο.",
     "view": "Προβολή",
     "view_item": "Προβολή {subject}"
 }

@@ -15,6 +15,7 @@
     "columns_fit": "Nascondi colonne per adattare",
     "confirm_delete": "Sei sicuro di voler eliminare questo record?",
     "confirm_delete_multiple": "Sei sicuro di voler eliminare questi {items_amount} record?",
+    "delete_success_message": "I dati selezionati sono stati eliminati con successo.",
     "edit": "Modifica",
     "edit_item": "Modifica {subject}",
     "enter_x_or_more_characters": "Inserisci alemno {remaining_chars} caratteri",
@@ -50,6 +51,7 @@
     "filtering_remove_filters": "Rimuovi filtri",
     "filtering_starts_with": "inizia con",
     "filtering_text": "Filtraggio",
+    "insert_success_message": "I tuoi dati sono stati memorizzati con successo.",
     "loading": "Caricamento in corso...",
     "modal_save": "Salva",
     "more": "Altro",
@@ -77,6 +79,7 @@
     "time_minute_text": "Minuti",
     "time_second_text": "Secondi",
     "time_text": "Ora",
+    "update_success_message": "I tuoi dati sono stati aggiornati con successo.",
     "upload_attach_file": "Trascina un file per allegarlo, o {browse_file}",
     "view": "Vista lista",
     "view_item": "Vista lista {subject}"

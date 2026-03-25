@@ -13,6 +13,7 @@
     "columns_fit": "Sembunyikan kolom untuk penyesuaian",
     "confirm_delete": "Apakah anda yakin ingin menghapus data?",
     "confirm_delete_multiple": "Apakah anda yakin ingin menghapus {items_amount} item ini?",
+    "delete_success_message": "Data yang dipilih telah berhasil dihapus.",
     "edit": "Ubah",
     "edit_item": "Ubah {subject}",
     "enter_x_or_more_characters": "Silakan masukkan {remaining_chars} karakter lagi atau lebih",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Hapus filters",
     "filtering_starts_with": "diawali dengan",
     "filtering_text": "Penyaringan",
+    "insert_success_message": "Data Anda telah berhasil disimpan.",
     "loading": "Sedang memuat..",
     "modal_save": "Simpan",
     "more": "Selengkapnya",
@@ -63,6 +65,7 @@
     "time_minute_text": "Menit",
     "time_second_text": "Detik",
     "time_text": "Waktu",
+    "update_success_message": "Data Anda telah berhasil diperbarui.",
     "upload_attach_file": "Drop files to attach, atau {browse_file}",
     "view": "Lihat",
     "view_item": "Lihat {subject}"

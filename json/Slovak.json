@@ -13,6 +13,7 @@
     "columns_fit": "Skryť stĺpce na prispôsobenie",
     "confirm_delete": "Určite chcete zmazať tento záznam?",
     "confirm_delete_multiple": "Ste si istí, že chcete vymazať tieto {items_amount} položky?",
+    "delete_success_message": "Vybrané údaje boli úspešne vymazané.",
     "edit": "Upraviť",
     "edit_item": "Upraviť {subject}",
     "enter_x_or_more_characters": "Prosím zadajte {remaining_chars} alebo viac znakov",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Odstrániť filtre",
     "filtering_starts_with": "začína na",
     "filtering_text": "Filtrovanie",
+    "insert_success_message": "Vaše údaje boli úspešne uložené.",
     "loading": "Načítavanie...",
     "modal_save": "Uložiť",
     "more": "Viac",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minúta",
     "time_second_text": "Sekunda",
     "time_text": "Čas",
+    "update_success_message": "Vaše údaje boli úspešne aktualizované.",
     "upload_attach_file": "Presuňte súbory na pripojenie alebo {browse_file}",
     "view": "Zobraziť",
     "view_item": "Zobraziť {subject}"

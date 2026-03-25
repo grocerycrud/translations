@@ -13,6 +13,7 @@
     "columns_fit": "फ़िट करने के लिए स्तंभ छुपाएं",
     "confirm_delete": "क्या आप निश्चिन्त है कि आप इस रिकॉर्ड को नष्ट करना चाहते हैं ?",
     "confirm_delete_multiple": "क्या आप निश्चित हैं कि आप इन {items_amount} आइटम को हटाना चाहते हैं?",
+    "delete_success_message": "चयनित डेटा सफलतापूर्वक हटा दिया गया है।",
     "edit": "परिवर्तित करें",
     "edit_item": "परिवर्तित करें {subject}",
     "enter_x_or_more_characters": "कृपया {remaining_chars} या अधिक वर्ण दर्ज करें",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "फ़िल्टर हटाएं",
     "filtering_starts_with": "से शुरू होता है",
     "filtering_text": "फ़िल्टरिंग",
+    "insert_success_message": "आपका डेटा सफलतापूर्वक संग्रहीत हो गया है।",
     "loading": "भरण  हो रहा है ......",
     "modal_save": "सहेंजे",
     "more": "अधिक",
@@ -63,6 +65,7 @@
     "time_minute_text": "मिनट",
     "time_second_text": "सेकंड",
     "time_text": "समय",
+    "update_success_message": "आपका डेटा सफलतापूर्वक अपडेट हो गया है।",
     "upload_attach_file": "संलग्न करने के लिए फ़ाइलें छोड़ें, या {browse_file}",
     "view": "देखें",
     "view_item": "देखें {subject}"

@@ -13,6 +13,7 @@
     "columns_fit": "ซ่อนคอลัมน์เพื่อให้พอดี",
     "confirm_delete": "คุณแน่ใจหรือไม่ที่จะลบข้อมูลบรรทัดนี้?",
     "confirm_delete_multiple": "คุณแน่ใจหรือไม่ว่าต้องการลบรายการเหล่านี้ {items_amount} รายการ?",
+    "delete_success_message": "ข้อมูลที่เลือกถูกลบเรียบร้อยแล้ว",
     "edit": "แก้ไข",
     "edit_item": "แก้ไข {subject}",
     "enter_x_or_more_characters": "กรุณาใส่ {remaining_chars} หรือมากกว่าตัวอักษร",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "ลบตัวกรอง",
     "filtering_starts_with": "เริ่มต้นด้วย",
     "filtering_text": "การกรอง",
+    "insert_success_message": "ข้อมูลของคุณถูกบันทึกเรียบร้อยแล้ว",
     "loading": "กำลังโหลด...",
     "modal_save": "บันทึก",
     "more": "เพิ่มเติม",
@@ -63,6 +65,7 @@
     "time_minute_text": "นาที",
     "time_second_text": "วินาที",
     "time_text": "เวลา",
+    "update_success_message": "ข้อมูลของคุณถูกอัปเดตเรียบร้อยแล้ว",
     "upload_attach_file": "วางไฟล์เพื่อแนบหรือ {browse_file}",
     "view": "ดู",
     "view_item": "ดู {subject}"

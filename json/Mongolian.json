@@ -13,6 +13,7 @@
     "columns_fit": "Тохируулахын тулд баганыг нуух",
     "confirm_delete": "Энэ бичлэгийг устгахдаа итгэлтэй байна уу?",
     "confirm_delete_multiple": "Та эдгээр {items_amount} зүйлийг устгахдаа итгэлтэй байна уу?",
+    "delete_success_message": "Сонгосон өгөгдөл амжилттай устгагдлаа.",
     "edit": "Засах",
     "edit_item": "Засах {subject}",
     "enter_x_or_more_characters": "{remaining_chars} буюу түүнээс дээш тэмдэгт оруулна уу",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Шүүлтүүрүүд арилгах",
     "filtering_starts_with": "эхэлнэ",
     "filtering_text": "Шүүлтүүр",
+    "insert_success_message": "Таны өгөгдөл амжилттай хадгалагдлаа.",
     "loading": "Уншиж байна...",
     "modal_save": "Хадгалах",
     "more": "Илүү",
@@ -63,6 +65,7 @@
     "time_minute_text": "Минут",
     "time_second_text": "Секунд",
     "time_text": "Цаг",
+    "update_success_message": "Таны өгөгдөл амжилттай шинэчлэгдлээ.",
     "upload_attach_file": "Файлуудыг хавсаргахын тулд чирж оруулах эсвэл {browse_file}",
     "view": "Харах",
     "view_item": "Харах {subject}"

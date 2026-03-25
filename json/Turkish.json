@@ -13,6 +13,7 @@
     "columns_fit": "Sığdırmak için sütunları gizle",
     "confirm_delete": "Bu kaydı silmek istediğinizden emin misiniz?",
     "confirm_delete_multiple": "Bu {items_amount} öğeyi silmek istediğinizden emin misiniz?",
+    "delete_success_message": "Seçilen veriler başarıyla silindi.",
     "edit": "Düzenle",
     "edit_item": "Düzenle {subject}",
     "enter_x_or_more_characters": "Lütfen {remaining_chars} veya daha fazla karakter girin",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Filtreleri kaldır",
     "filtering_starts_with": "ile başlar",
     "filtering_text": "Filtreleme",
+    "insert_success_message": "Verileriniz başarıyla kaydedildi.",
     "loading": "Yükleniyor...",
     "modal_save": "Kaydet",
     "more": "Daha fazla",
@@ -63,6 +65,7 @@
     "time_minute_text": "Dakika",
     "time_second_text": "Saniye",
     "time_text": "Zaman",
+    "update_success_message": "Verileriniz başarıyla güncellendi.",
     "upload_attach_file": "Eklemek için dosyaları bırakın veya {browse_file}",
     "view": "Görüntüle",
     "view_item": "Görüntüle {subject}"

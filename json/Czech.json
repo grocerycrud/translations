@@ -89,6 +89,8 @@
     "update_success_message": "Vaše data byla úspěšně aktualizována.",
     "upload_attach_file": "Přetáhněte soubory, které chcete připojit, nebo {browse_file}",
     "upload_error_only_one_file": "Lze nahrát pouze jeden soubor. Vyberte prosím jeden soubor.",
+    "validation_required_upload": "musí obsahovat soubor.",
+    "validation_unique": "musí obsahovat jedinečnou hodnotu.",
     "view": "Zobrazit",
     "view_item": "Zobrazit {subject}"
 }

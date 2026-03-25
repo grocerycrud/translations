@@ -14,6 +14,7 @@
   "columns" : "Kolonnas",
   "confirm_delete" : "Vai tiešām vēlaties dzēst šo vienumu?",
   "confirm_delete_multiple" : "Vai tiešām vēlaties dzēst šos {items_amount} vienumus?",
+  "delete_success_message": "Izvēlētie dati ir veiksmīgi dzēsti.",
   "drag_n_drop_file_multiple" : "Velciet un nometiet failus šeit vai noklikšķiniet, lai izvēlētos failus",
   "drag_n_drop_file_one" : "Velciet un nometiet failu šeit vai noklikšķiniet, lai izvēlētos failu",
   "edit" : "Rediģēt",
@@ -52,6 +53,7 @@
   "filtering_starts_with" : "sākas ar",
   "filtering_text" : "Filtrēšana",
   "hide": "Paslēpt",
+  "insert_success_message": "Jūsu dati ir veiksmīgi saglabāti.",
   "loading" : "Ielādē...",
   "modal_save" : "Saglabāt izmaiņas",
   "more" : "Vairāk",
@@ -83,7 +85,10 @@
   "time_minute_text" : "Minūte",
   "time_second_text" : "Sekunde",
   "time_text" : "Laiks",
+  "update_success_message": "Jūsu dati ir veiksmīgi atjaunināti.",
   "upload_error_only_one_file": "Ir atļauts augšupielādēt tikai vienu failu. Lūdzu, izvēlieties vienu failu.",
+  "validation_required_upload": "jāsatur fails.",
+  "validation_unique": "jāsatur unikāla vērtība.",
   "view" : "Skatīt",
   "view_item" : "Skatīt {subject}"
 }

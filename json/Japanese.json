@@ -13,6 +13,7 @@
     "columns_fit": "列を非表示にして調整",
     "confirm_delete": "本当に行を削除しますか?",
     "confirm_delete_multiple": "本当にこれらの{items_amount}個のアイテムを削除しますか？",
+    "delete_success_message": "選択したデータは正常に削除されました。",
     "edit": "編集",
     "edit_item": "編集 {subject}",
     "enter_x_or_more_characters": "{remaining_chars}文字以上を入力してください",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "フィルターを削除",
     "filtering_starts_with": "で始まる",
     "filtering_text": "フィルタリング",
+    "insert_success_message": "データは正常に保存されました。",
     "loading": "読み込み中",
     "modal_save": "行の挿入",
     "more": "もっと見る",
@@ -63,6 +65,7 @@
     "time_minute_text": "分",
     "time_second_text": "秒",
     "time_text": "時刻",
+    "update_success_message": "データは正常に更新されました。",
     "upload_attach_file": "ファイルをドロップして添付、または{browse_file}",
     "view": "ビュー",
     "view_item": "ビュー {subject}"

@@ -13,6 +13,7 @@
     "columns_fit": "Ukryj kolumny, aby dopasować",
     "confirm_delete": "Na pewno chcesz usunąć ten rekord?",
     "confirm_delete_multiple": "Czy na pewno chcesz usunąć te {items_amount} elementy?",
+    "delete_success_message": "Wybrane dane zostały pomyślnie usunięte.",
     "edit": "Edytuj",
     "edit_item": "Edytuj {subject}",
     "enter_x_or_more_characters": "Proszę wprowadzić {remaining_chars} lub więcej znaków",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Usuń filtry",
     "filtering_starts_with": "zaczyna się od",
     "filtering_text": "Filtrowanie",
+    "insert_success_message": "Twoje dane zostały pomyślnie zapisane.",
     "loading": "Ładowanie...",
     "modal_save": "Zapisz",
     "more": "Więcej",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minuta",
     "time_second_text": "Sekunda",
     "time_text": "Czas",
+    "update_success_message": "Twoje dane zostały pomyślnie zaktualizowane.",
     "upload_attach_file": "Upuść pliki, aby załączyć, lub {browse_file}",
     "view": "Podgląd",
     "view_item": "Podgląd {subject}"

@@ -13,6 +13,7 @@
     "columns_fit": "Paslėpti stulpelius pritaikymui",
     "confirm_delete": "Ar tikrai noriti ištrinti įrašą?",
     "confirm_delete_multiple": "Ar tikrai norite ištrinti šiuos {items_amount} elementus?",
+    "delete_success_message": "Pasirinkti duomenys sėkmingai ištrinti.",
     "edit": "Redaguoti",
     "edit_item": "Redaguoti {subject}",
     "enter_x_or_more_characters": "Prašome įvesti {remaining_chars} ar daugiau simbolių",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Pašalinti filtrus",
     "filtering_starts_with": "prasideda",
     "filtering_text": "Filtravimas",
+    "insert_success_message": "Jūsų duomenys sėkmingai išsaugoti.",
     "loading": "Kraunama...",
     "modal_save": "saugoti",
     "more": "Daugiau",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minutė",
     "time_second_text": "Sekundė",
     "time_text": "Laikas",
+    "update_success_message": "Jūsų duomenys sėkmingai atnaujinti.",
     "upload_attach_file": "Nuvilkite failus prisegimui arba {browse_file}",
     "view": "Pažiūrėti",
     "view_item": "Pažiūrėti {subject}"

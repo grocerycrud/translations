@@ -13,6 +13,7 @@
     "columns_fit": "مخفی کردن ستون‌ها برای تناسب",
     "confirm_delete": "واقعا میخواهید این رکورد را حذف کنید؟",
     "confirm_delete_multiple": "آیا مطمئن هستید که می‌خواهید این {items_amount} مورد را حذف کنید؟",
+    "delete_success_message": "داده‌های انتخاب شده با موفقیت حذف شدند.",
     "edit": "ویرایش",
     "edit_item": "ویرایش {subject}",
     "enter_x_or_more_characters": "لطفاً {remaining_chars} یا بیشتر کاراکتر وارد کنید",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "حذف فیلترها",
     "filtering_starts_with": "شروع می‌شود با",
     "filtering_text": "فیلترینگ",
+    "insert_success_message": "داده‌های شما با موفقیت ذخیره شدند.",
     "loading": "درحال بارگزاری...",
     "modal_save": "ذخیره",
     "more": "بیشتر",
@@ -63,6 +65,7 @@
     "time_minute_text": "دقیقه",
     "time_second_text": "ثانیه",
     "time_text": "زمان",
+    "update_success_message": "داده‌های شما با موفقیت به‌روزرسانی شدند.",
     "upload_attach_file": "فایل‌ها را برای پیوست کردن رها کنید یا {browse_file}",
     "view": "مشاهده",
     "view_item": "مشاهده {subject}"

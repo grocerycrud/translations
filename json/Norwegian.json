@@ -13,6 +13,7 @@
     "columns_fit": "Skjul kolonner for å tilpasse",
     "confirm_delete": "Er du sikker på at du vil slette dette?",
     "confirm_delete_multiple": "Er du sikker på at du vil slette disse {items_amount} rekkene?",
+    "delete_success_message": "De valgte dataene er slettet.",
     "edit": "Rediger",
     "edit_item": "Rediger {subject}",
     "enter_x_or_more_characters": "Vennligst skriv inn {remaining_chars} eller flere tegn",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "Fjern filtre",
     "filtering_starts_with": "begynner med",
     "filtering_text": "Filtrering",
+    "insert_success_message": "Dataene dine er lagret.",
     "loading": "Henter...",
     "modal_save": "Lagre",
     "more": "Flere",
@@ -63,6 +65,7 @@
     "time_minute_text": "Minutt",
     "time_second_text": "Sekund",
     "time_text": "Tid",
+    "update_success_message": "Dataene dine er oppdatert.",
     "upload_attach_file": "Slipp filer her for å legge til, eller {browse_file}",
     "view": "Vis",
     "view_item": "Vis {subject}"

@@ -13,6 +13,7 @@
     "columns_fit": "맞춤을 위해 열 숨기기",
     "confirm_delete": "정말로 이 자료를 지우시겠습니까?",
     "confirm_delete_multiple": "정말로 이 {items_amount}개의 항목을 삭제하시겠습니까?",
+    "delete_success_message": "선택한 데이터가 성공적으로 삭제되었습니다.",
     "edit": "고치기",
     "edit_item": "고치기 {subject}",
     "enter_x_or_more_characters": "{remaining_chars}자 이상 입력하세요",
@@ -42,6 +43,7 @@
     "filtering_remove_filters": "필터 제거",
     "filtering_starts_with": "시작",
     "filtering_text": "필터링",
+    "insert_success_message": "데이터가 성공적으로 저장되었습니다.",
     "loading": "실행중...",
     "modal_save": "저장하기",
     "more": "더보기",
@@ -63,6 +65,7 @@
     "time_minute_text": "분",
     "time_second_text": "초",
     "time_text": "시간",
+    "update_success_message": "데이터가 성공적으로 업데이트되었습니다.",
     "upload_attach_file": "첨부할 파일을 드롭하거나 {browse_file}",
     "view": "보기",
     "view_item": "보기 {subject}"
