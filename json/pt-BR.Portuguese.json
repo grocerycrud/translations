@@ -86,7 +86,8 @@
     "time_text": "Tempo",
     "update_success_message": "Seus dados foram atualizados com sucesso.",
     "upload_attach_file": "Arraste arquivos para anexar, ou {browse_file}",
-    "upload_error_only_one_file": "Apenas um arquivo é permitido por upload. Por favor, selecione um único arquivo.",
+    "validation_required_upload": "deve conter um arquivo.",
+    "validation_unique": "deve conter um valor único.",
     "view": "Visualizar",
     "view_item": "Visualizar {subject}"
 }

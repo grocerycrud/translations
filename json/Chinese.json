@@ -67,6 +67,8 @@
     "time_text": "时间",
     "update_success_message": "您的数据已成功更新。",
     "upload_attach_file": "拖放文件以附加，或 {browse_file}",
+    "validation_required_upload": "文件上传为必填项。",
+    "validation_unique": "该值必须唯一。",
     "view": "查看",
     "view_item": "查看 {subject}"
 }

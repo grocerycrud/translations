@@ -67,6 +67,8 @@
     "time_text": "Hora",
     "update_success_message": "Les teves dades s'han actualitzat correctament.",
     "upload_attach_file": "Deixa caure arxius per adjuntar, o {browse_file}",
+    "validation_required_upload": "ha de contenir un fitxer.",
+    "validation_unique": "ha de contenir un valor únic.",
     "view": "Veure",
     "view_item": "Veure {subject}"
 }

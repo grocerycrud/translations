@@ -67,6 +67,8 @@
     "time_text": "Tid",
     "update_success_message": "Dine data er blevet opdateret.",
     "upload_attach_file": "Slip filer for at vedhæfte, eller {browse_file}",
+    "validation_required_upload": "skal indeholde en fil.",
+    "validation_unique": "skal indeholde en unik værdi.",
     "view": "Vis",
     "view_item": "Vis {subject}"
 }

@@ -67,6 +67,8 @@
     "time_text": "Tyd",
     "update_success_message": "Jou data is suksesvol opgedateer.",
     "upload_attach_file": "Sleep lêers om aan te heg, of {browse_file}",
+    "validation_required_upload": "moet 'n lêer bevat.",
+    "validation_unique": "moet 'n unieke waarde bevat.",
     "view": "Besigtig",
     "view_item": "Besigtig {subject}"
 }

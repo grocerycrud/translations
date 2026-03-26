@@ -67,6 +67,8 @@
     "time_text": "Tijd",
     "update_success_message": "Uw gegevens zijn succesvol bijgewerkt.",
     "upload_attach_file": "Sleep bestanden om bij te voegen, of {browse_file}",
+    "validation_required_upload": "moet een bestand bevatten.",
+    "validation_unique": "moet een unieke waarde bevatten.",
     "view": "Bekijk",
     "view_item": "Bekijk {subject}"
 }

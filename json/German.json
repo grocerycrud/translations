@@ -89,6 +89,8 @@
     "update_success_message": "Ihre Daten wurden erfolgreich aktualisiert.",
     "upload_attach_file": "Dateien zum Anhängen hierhin ziehen oder {browse_file}",
     "upload_error_only_one_file": "Es kann maximal eine Datei hochgeladen werden. Bitte wählen Sie eine einzelne Datei aus.",
+    "validation_required_upload": "muss eine Datei enthalten.",
+    "validation_unique": "muss einen eindeutigen Wert enthalten.",
     "view": "Anzeigen",
     "view_item": "{subject} anzeigen"
 }

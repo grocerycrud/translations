@@ -67,6 +67,8 @@
     "time_text": "시간",
     "update_success_message": "데이터가 성공적으로 업데이트되었습니다.",
     "upload_attach_file": "첨부할 파일을 드롭하거나 {browse_file}",
+    "validation_required_upload": "파일이 포함되어야 합니다.",
+    "validation_unique": "고유한 값을 포함해야 합니다.",
     "view": "보기",
     "view_item": "보기 {subject}"
 }

@@ -67,6 +67,8 @@
     "time_text": "زمان",
     "update_success_message": "داده‌های شما با موفقیت به‌روزرسانی شدند.",
     "upload_attach_file": "فایل‌ها را برای پیوست کردن رها کنید یا {browse_file}",
+    "validation_required_upload": "باید شامل یک فایل باشد.",
+    "validation_unique": "باید شامل یک مقدار یکتا باشد.",
     "view": "مشاهده",
     "view_item": "مشاهده {subject}"
 }

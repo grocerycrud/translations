@@ -67,6 +67,8 @@
     "time_text": "Час",
     "update_success_message": "Ваші дані успішно оновлено.",
     "upload_attach_file": "Перетягніть файли для прикріплення або {browse_file}",
+    "validation_required_upload": "має містити файл.",
+    "validation_unique": "має містити унікальне значення.",
     "view": "Переглянути",
     "view_item": "Переглянути {subject}"
 }

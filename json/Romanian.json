@@ -67,6 +67,8 @@
     "time_text": "Ora",
     "update_success_message": "Datele dumneavoastră au fost actualizate cu succes.",
     "upload_attach_file": "Plasați fișiere pentru a atașa sau {browse_file}",
+    "validation_required_upload": "trebuie să conțină un fișier.",
+    "validation_unique": "trebuie să conțină o valoare unică.",
     "view": "Vizualizare",
     "view_item": "Vizualizare {subject}"
 }

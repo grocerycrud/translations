@@ -67,6 +67,8 @@
     "time_text": "Laikas",
     "update_success_message": "Jūsų duomenys sėkmingai atnaujinti.",
     "upload_attach_file": "Nuvilkite failus prisegimui arba {browse_file}",
+    "validation_required_upload": "turi būti failas.",
+    "validation_unique": "turi būti unikali reikšmė.",
     "view": "Pažiūrėti",
     "view_item": "Pažiūrėti {subject}"
 }

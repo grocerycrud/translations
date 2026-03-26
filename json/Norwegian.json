@@ -67,6 +67,8 @@
     "time_text": "Tid",
     "update_success_message": "Dataene dine er oppdatert.",
     "upload_attach_file": "Slipp filer her for å legge til, eller {browse_file}",
+    "validation_required_upload": "må inneholde en fil.",
+    "validation_unique": "må inneholde en unik verdi.",
     "view": "Vis",
     "view_item": "Vis {subject}"
 }

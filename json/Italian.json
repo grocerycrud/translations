@@ -81,6 +81,8 @@
     "time_text": "Ora",
     "update_success_message": "I tuoi dati sono stati aggiornati con successo.",
     "upload_attach_file": "Trascina un file per allegarlo, o {browse_file}",
+    "validation_required_upload": "deve contenere un file.",
+    "validation_unique": "deve contenere un valore univoco.",
     "view": "Vista lista",
     "view_item": "Vista lista {subject}"
 }

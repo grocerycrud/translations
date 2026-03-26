@@ -67,6 +67,8 @@
     "time_text": "Thời gian",
     "update_success_message": "Dữ liệu của bạn đã được cập nhật thành công.",
     "upload_attach_file": "Thả tệp để đính kèm hoặc {browse_file}",
+    "validation_required_upload": "phải chứa một tệp.",
+    "validation_unique": "phải chứa một giá trị duy nhất.",
     "view": "Chi tiết",
     "view_item": "Chi tiết {subject}"
 }

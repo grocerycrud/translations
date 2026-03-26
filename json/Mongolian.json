@@ -67,6 +67,8 @@
     "time_text": "Цаг",
     "update_success_message": "Таны өгөгдөл амжилттай шинэчлэгдлээ.",
     "upload_attach_file": "Файлуудыг хавсаргахын тулд чирж оруулах эсвэл {browse_file}",
+    "validation_required_upload": "файл агуулсан байх ёстой.",
+    "validation_unique": "өвөрмөц утга агуулсан байх ёстой.",
     "view": "Харах",
     "view_item": "Харах {subject}"
 }

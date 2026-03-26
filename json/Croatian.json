@@ -67,6 +67,8 @@
     "time_text": "Vrijeme",
     "update_success_message": "Vaši podaci su uspješno ažurirani.",
     "upload_attach_file": "Ispustite datoteke za prilaganje ili {browse_file}",
+    "validation_required_upload": "mora sadržavati datoteku.",
+    "validation_unique": "mora sadržavati jedinstvenu vrijednost.",
     "view": "Pregled",
     "view_item": "Pregled {subject}"
 }

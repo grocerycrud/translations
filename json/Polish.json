@@ -67,6 +67,8 @@
     "time_text": "Czas",
     "update_success_message": "Twoje dane zostały pomyślnie zaktualizowane.",
     "upload_attach_file": "Upuść pliki, aby załączyć, lub {browse_file}",
+    "validation_required_upload": "musi zawierać plik.",
+    "validation_unique": "musi zawierać unikalną wartość.",
     "view": "Podgląd",
     "view_item": "Podgląd {subject}"
 }

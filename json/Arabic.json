@@ -67,6 +67,8 @@
     "time_text": "الوقت",
     "update_success_message": "تم تحديث بياناتك بنجاح.",
     "upload_attach_file": "قم بإسقاط الملفات للإرفاق، أو {browse_file}",
+    "validation_required_upload": "يجب أن يحتوي على ملف.",
+    "validation_unique": "يجب أن يحتوي على قيمة فريدة.",
     "view": "مشاهدة",
     "view_item": "مشاهدة {subject}"
 }

@@ -67,6 +67,8 @@
     "time_text": "Heure",
     "update_success_message": "Vos données ont été mises à jour avec succès.",
     "upload_attach_file": "Déposer les fichier ici, ou {browse_file}",
+    "validation_required_upload": "doit contenir un fichier.",
+    "validation_unique": "doit contenir une valeur unique.",
     "view": "Voir",
     "view_item": "Voir {subject}"
 }

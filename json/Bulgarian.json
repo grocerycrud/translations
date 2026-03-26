@@ -67,6 +67,8 @@
     "time_text": "Време",
     "update_success_message": "Вашите данни бяха успешно обновени.",
     "upload_attach_file": "Пуснете файлове за прикачване или {browse_file}",
+    "validation_required_upload": "трябва да съдържа файл.",
+    "validation_unique": "трябва да съдържа уникална стойност.",
     "view": "Преглед",
     "view_item": "Преглед {subject}"
 }

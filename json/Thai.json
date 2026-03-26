@@ -67,6 +67,8 @@
     "time_text": "เวลา",
     "update_success_message": "ข้อมูลของคุณถูกอัปเดตเรียบร้อยแล้ว",
     "upload_attach_file": "วางไฟล์เพื่อแนบหรือ {browse_file}",
+    "validation_required_upload": "ต้องมีไฟล์อย่างน้อยหนึ่งไฟล์.",
+    "validation_unique": "ต้องมีค่าที่ไม่ซ้ำกัน.",
     "view": "ดู",
     "view_item": "ดู {subject}"
 }

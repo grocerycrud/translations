@@ -67,6 +67,8 @@
     "time_text": "Waktu",
     "update_success_message": "Data Anda telah berhasil diperbarui.",
     "upload_attach_file": "Drop files to attach, atau {browse_file}",
+    "validation_required_upload": "harus berisi file.",
+    "validation_unique": "harus berisi nilai unik.",
     "view": "Lihat",
     "view_item": "Lihat {subject}"
 }

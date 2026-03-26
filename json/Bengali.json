@@ -67,6 +67,8 @@
     "time_text": "সময়",
     "update_success_message": "আপনার ডেটা সফলভাবে আপডেট করা হয়েছে।",
     "upload_attach_file": "সংযুক্ত করতে ফাইল ড্রপ করুন, অথবা {browse_file}",
+    "validation_required_upload": "একটি ফাইল থাকতে হবে।",
+    "validation_unique": "একটি অনন্য মান থাকতে হবে।",
     "view": "দেখুন",
     "view_item": "দেখুন {subject}"
 }

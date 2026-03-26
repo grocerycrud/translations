@@ -67,6 +67,8 @@
     "time_text": "時刻",
     "update_success_message": "データは正常に更新されました。",
     "upload_attach_file": "ファイルをドロップして添付、または{browse_file}",
+    "validation_required_upload": "ファイルを含める必要があります。",
+    "validation_unique": "一意の値である必要があります。",
     "view": "ビュー",
     "view_item": "ビュー {subject}"
 }

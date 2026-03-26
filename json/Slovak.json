@@ -67,6 +67,8 @@
     "time_text": "Čas",
     "update_success_message": "Vaše údaje boli úspešne aktualizované.",
     "upload_attach_file": "Presuňte súbory na pripojenie alebo {browse_file}",
+    "validation_required_upload": "musí obsahovať súbor.",
+    "validation_unique": "musí obsahovať jedinečnú hodnotu.",
     "view": "Zobraziť",
     "view_item": "Zobraziť {subject}"
 }

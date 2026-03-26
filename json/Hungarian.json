@@ -67,6 +67,8 @@
     "time_text": "Idő",
     "update_success_message": "Az adatai sikeresen frissítve lettek.",
     "upload_attach_file": "Húzza ide a fájlokat a csatoláshoz, vagy {browse_file}",
+    "validation_required_upload": "fájlt kell tartalmaznia.",
+    "validation_unique": "egyedi értéket kell tartalmaznia.",
     "view": "Megtekintés",
     "view_item": "Megtekintés {subject}"
 }

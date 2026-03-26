@@ -67,6 +67,8 @@
     "time_text": "Zaman",
     "update_success_message": "Verileriniz başarıyla güncellendi.",
     "upload_attach_file": "Eklemek için dosyaları bırakın veya {browse_file}",
+    "validation_required_upload": "bir dosya içermelidir.",
+    "validation_unique": "benzersiz bir değer içermelidir.",
     "view": "Görüntüle",
     "view_item": "Görüntüle {subject}"
 }
